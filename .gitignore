@@ -13,3 +13,6 @@
 .idea/
 .vscode/
 *.iml
+
+# Original Eclipse project folder (Assignment 2 and 3 source is copied above)
+GDB_App/
