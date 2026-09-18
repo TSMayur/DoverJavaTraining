@@ -1,0 +1,15 @@
+# Java and Eclipse build output
+**/bin/
+**/target/
+**/test-bin/
+
+# Eclipse workspace and settings
+.metadata/
+**/.settings/
+*.classpath
+*.project
+
+# IDE files
+.idea/
+.vscode/
+*.iml
