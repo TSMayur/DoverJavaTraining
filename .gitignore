@@ -16,3 +16,6 @@
 
 # Original Eclipse project folder (Assignment 2 and 3 source is copied above)
 /GDB_App/
+
+# Local database credentials
+/lmsdbapp/src/main/resources/db.properties
