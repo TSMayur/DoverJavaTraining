@@ -19,3 +19,8 @@
 
 # Local database credentials
 /lmsdbapp/src/main/resources/db.properties
+/1Web/src/main/resources/db.properties
+/honeapp/src/main/resources/db.properties
+/EmployeeHibernateApp/src/main/resources/db.properties
+/htwoapp/src/main/resources/db.properties
+/hthreeapp/src/main/resources/db.properties
